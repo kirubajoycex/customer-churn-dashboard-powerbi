@@ -21,6 +21,13 @@ This project analyzes telecom customer churn data using Power BI to identify chu
 ### Customer Priority List
 ![Customer Priority List](Customer-priority-list.png)
 
+## How to View
+
+1. Download `Customer_Churn_Dashboard.pbix`
+2. Open it using Microsoft Power BI Desktop.
+3. Explore the **Executive Dashboard** and **Customer Priority List** pages.
+4. Interact with filters, slicers, and KPI visuals to analyze customer churn patterns and risk segments.
+
 ## Key KPIs
 - Total Customers
 - Churned Customers
